@@ -1,8 +1,6 @@
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
-    body {
-        font-family: 'Times New Roman', Times, serif;
-        color: #ffffff;
-        background-color: #0f0f0f;
-        width: 100%;
-    }
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background: #0f0f0f;
+    width: 100%;
 }
