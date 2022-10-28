@@ -4,6 +4,7 @@
 
 ## Work Experience
 13 Sep. 2021 - 18 Feb. 2022 - Barcelona, Spain
+
 It Network Technician at Hospital Quiron Salud
 > Technical Support installation, configuration and maintenance of Microcumputer Systems.
 
