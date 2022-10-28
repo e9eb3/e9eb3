@@ -3,7 +3,7 @@
 * Nacionality: Peruvian
 
 ## Work Experience
-- It Network Technician at Hospital Quiron Salud
+It Network Technician at Hospital Quiron Salud
 > Technical Support installation, configuration and maintenance of Microcumputer Systems.
 
 ## Educaction & Training
