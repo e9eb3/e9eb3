@@ -15,13 +15,17 @@
 **Address** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 ___
 13 Sep. 2021 - 21 Jun. 2022 - Barcelona, Spain
+
 **Technician in Microcomputers Systems & Networks** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
 
 **Address** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 ___
 09 Sep. 2019 - 21 Jul. 2020 - Barcelona, Spain
-**Assistant in the Assembly & Installation of Computer Equipment - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
+
+**Assistant in the Assembly & Installation of Computer Equipment** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
 
 **Address** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 
 ## Language Skills
+Mother tongue(s): **Español** | **Catalán**
+
