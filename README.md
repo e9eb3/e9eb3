@@ -33,3 +33,5 @@ Mother tongue(s): **Español** | **Catalán**
 |Language|Listening|Reading|Spoken production|Spoken interaction|Writig|
 |---|---|---|---|---|---|
 |English|A1|B1|A1|A1|A2|
+
+> Levels: A1 & A2: Basic user; B1 & B2: Independent user; C1 & C2; Proficient user
