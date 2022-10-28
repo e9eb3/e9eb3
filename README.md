@@ -29,3 +29,7 @@ ___
 
 ## Language Skills
 Mother tongue(s): **Español** | **Catalán**
+
+Language | Listening | Reading | Spoken production | Spoken interaction
+--- | --- | --- | --- |
+English | A1 | B1 | A1 | A1 | A2
