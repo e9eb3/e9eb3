@@ -35,3 +35,8 @@ Mother tongue(s): **Español** | **Catalán**
 |English|A1|B1|A1|A1|A2|
 
 > Levels: A1 & A2: Basic user; B1 & B2: Independent user; C1 & C2; Proficient user
+
+## Digital Skills
+**My Digital Skills**
+
+Google Drive | Google Docs | Microsoft Word | Microsoft Excel | Instagram | Facebook | Skype | Discord | Twitter | Github | Linux | Gmail | Clonezilla
