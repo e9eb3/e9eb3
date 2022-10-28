@@ -15,3 +15,4 @@
 
 **Address** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 ___
+**Technician in Microcomputers Systems & Networks** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
