@@ -1,6 +1,5 @@
 # Carlos Quintos Nores
-* Date of birth: 02 Nov. 2002
-* Nacionality: Peruvian
+**Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian
 
 ## Work Experience
 13 Sep. 2021 - 18 Feb. 2022 - Barcelona, Spain
