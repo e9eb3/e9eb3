@@ -10,4 +10,5 @@ It Network Technician - [Hospital Quiron Salud](https://www.quironsalud.es/hospi
 
 ## Educaction & Training
 07 Sep. 2022 - Current - Barcelona, Spain
-Senior Technician in Administration of Computer Network Systems - Institut  Tecnològic de Barcelona
+
+Senior Technician in Administration of Computer Network Systems - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
