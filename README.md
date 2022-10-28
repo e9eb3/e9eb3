@@ -29,5 +29,8 @@ ___
 ## Language Skills
 Mother tongue(s): **Español** | **Catalán**
 
-UNDERSTANDING | SPEAKING | WRITING
---- | --- | ---
+-----------------------------------------------------
+|         |    UNDERSTANDING    |     SPEAKING      |
+|         | Listening | Reading | Spoken production |
+|INGLÉS   |    A1     |    B1   |        A1         |
+----------------------------------------------------|
