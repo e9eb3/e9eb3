@@ -2,6 +2,8 @@
 **Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian
 
 <a href="https://www.instagram.com/e9eb3e"><img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" width="25px" height="25px"></a>
+<a href="http://www.linkedin.com/in/e9eb3"><img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="25px" height="25px"></a>
+
 
 ## Work Experience
 13 Sep. 2021 - 18 Feb. 2022 - Barcelona, Spain
