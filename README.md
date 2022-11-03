@@ -1,7 +1,5 @@
 <style>
-    body {
-        text-align: center;
-    }
+    body {text-align: center;}
 </style>
 # Carlos Quintos Nores
 **Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian
