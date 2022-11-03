@@ -1,6 +1,8 @@
 <style>
     body {text-align: center;}
 </style>
+
+<body>
 # Carlos Quintos Nores
 **Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian
 
@@ -48,3 +50,4 @@ Mother tongue(s): **Español** | **Catalán**
 **My Digital Skills**
 
 Google Drive | Google Docs | Microsoft Word | Microsoft Excel | Instagram | Facebook | Skype | Discord | Twitter | Github | Linux | Gmail | Clonezilla
+</body>
