@@ -1,5 +1,10 @@
 body {
     font-family: 'Economica', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h1 {
     text-align: center;
 }
 
