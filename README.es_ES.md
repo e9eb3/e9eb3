@@ -1,6 +1,6 @@
-**You can see this site in this languages:**
+**Puedes ver éste sitio en estos idiomas:**
 
-<a href="README.md"><img src="https://img.shields.io/badge/language-english-blue"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/lenguaje-inglés-blue"></a>
 
 # Carlos Quintos Nores
 **Fecha de nacimiento:** 02 Nov. 2002 | **Nacionalidad:** Peruano
@@ -11,22 +11,22 @@
 
 
 ## Experiencia Laboral
-13 Sep. 2021 - 18 Feb. 2022 - Barcelona, Spain
+13 Sep. 2021 - 18 Feb. 2022 - Barcelona, España
 
 **It Network Technician** - [Hospital Quiron Salud](https://www.quironsalud.es/hospital-barcelona)
 
-Technical Support installation, configuration and maintenance of Microcumputer Systems.
+Technical Support installation, configuración y mantenimiento de Sistemas Microinformáticos.
 
 ## Educación y Formación
-07 Sep. 2022 - Current - Barcelona, Spain
+07 Sep. 2022 - Cursando - Barcelona, España
 
-**Senior Technician in Administration of Computer Network Systems** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
+**Técnico Superior en Administración de Sistemes Microinformáticos en Red** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
 
-**Dirección** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
+**Dirección** [Carrer d'Aiguablava, 121, Barcelona, España](https://g.page/itecbcn?share)
 ___
-13 Sep. 2021 - 21 Jun. 2022 - Barcelona, Spain
+13 Sep. 2021 - 21 Jun. 2022 - Barcelona, España
 
-**Technician in Microcomputers Systems & Networks** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
+**Técnico en Sistemes Microinformáticos y Redes** - [Institut  Tecnològic de Barcelona](https://www.itb.cat/)
 
 **Dirección** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 ___
@@ -37,13 +37,13 @@ ___
 **Dirección** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 
 ## Habilidades de Lenguaje
-Mother tongue(s): **Español** | **Catalán**
+Lenguaje materno: **Español** | **Catalán**
 
 |Language|Listening|Reading|Spoken production|Spoken interaction|Writig|
 |---|---|---|---|---|---|
 |English|A1|B1|A1|A1|A2|
 
-> Levels: A1 & A2: Basic user; B1 & B2: Independent user; C1 & C2; Proficient user
+> Niveles: A1 & A2: Usuario Básico; B1 & B2: Usuario Independiente; C1 & C2; Proficient user
 
 ## Habilidades Digitales
 **Mis Habilidades Digitales**
