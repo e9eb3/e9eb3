@@ -1,8 +1,3 @@
-**You can see this site in this languages:**
-
-<a href="README.es_ES.md"><img src="https://img.shields.io/badge/language-spanish-red"></a>
-<a href="README.md"><img src="https://img.shields.io/badge/lenguaje-inglés-blue"></a>
-
 # Carlos Quintos Nores
 **Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian
 
