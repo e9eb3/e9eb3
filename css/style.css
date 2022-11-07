@@ -6,8 +6,8 @@ body {
     font-size: 16px;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 li, a, button {
@@ -24,4 +24,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10;
+}
+
+table {
+    width: 100%;
 }
